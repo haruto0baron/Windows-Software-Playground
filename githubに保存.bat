@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit -m "コメント"
+git commit -m "commit"
 git push

@@ -28,24 +28,36 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
+            button1 = new Button();
+            lb1helloworld = new Label();
             SuspendLayout();
             // 
-            // label1
+            // button1
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(0, 0);
-            label1.Name = "label1";
-            label1.Size = new Size(42, 20);
-            label1.TabIndex = 0;
-            label1.Text = "hello";
+            button1.Location = new Point(350, 150);
+            button1.Name = "button1";
+            button1.Size = new Size(100, 30);
+            button1.TabIndex = 0;
+            button1.Text = "click this";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // lb1helloworld
+            // 
+            lb1helloworld.AutoSize = true;
+            lb1helloworld.Location = new Point(350, 250);
+            lb1helloworld.Name = "lb1helloworld";
+            lb1helloworld.Size = new Size(30, 20);
+            lb1helloworld.TabIndex = 1;
+            lb1helloworld.Text = "lb1";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(label1);
+            ClientSize = new Size(782, 453);
+            Controls.Add(lb1helloworld);
+            Controls.Add(button1);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -54,6 +66,7 @@
 
         #endregion
 
-        private Label label1;
+        private Button button1;
+        private Label lb1helloworld;
     }
 }
