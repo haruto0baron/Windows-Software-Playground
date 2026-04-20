@@ -1,0 +1,17 @@
+C:\github\windows_app\OSUNA\OSUNA\bin\Release\net10.0-windows\OSUNA.exe
+C:\github\windows_app\OSUNA\OSUNA\bin\Release\net10.0-windows\OSUNA.deps.json
+C:\github\windows_app\OSUNA\OSUNA\bin\Release\net10.0-windows\OSUNA.runtimeconfig.json
+C:\github\windows_app\OSUNA\OSUNA\bin\Release\net10.0-windows\OSUNA.dll
+C:\github\windows_app\OSUNA\OSUNA\bin\Release\net10.0-windows\OSUNA.pdb
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\OSUNA.Form1.resources
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\OSUNA.csproj.GenerateResource.cache
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\OSUNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\OSUNA.AssemblyInfoInputs.cache
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\OSUNA.AssemblyInfo.cs
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\OSUNA.csproj.CoreCompileInputs.cache
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\OSUNA.sourcelink.json
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\OSUNA.dll
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\refint\OSUNA.dll
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\OSUNA.pdb
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\OSUNA.genruntimeconfig.cache
+C:\github\windows_app\OSUNA\OSUNA\obj\Release\net10.0-windows\ref\OSUNA.dll
