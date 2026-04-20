@@ -1,0 +1,17 @@
+C:\github\windows_app\names app\names app\bin\Release\net10.0-windows\names app.exe
+C:\github\windows_app\names app\names app\bin\Release\net10.0-windows\names app.deps.json
+C:\github\windows_app\names app\names app\bin\Release\net10.0-windows\names app.runtimeconfig.json
+C:\github\windows_app\names app\names app\bin\Release\net10.0-windows\names app.dll
+C:\github\windows_app\names app\names app\bin\Release\net10.0-windows\names app.pdb
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\names_app.Form1.resources
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\names app.csproj.GenerateResource.cache
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\names app.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\names app.AssemblyInfoInputs.cache
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\names app.AssemblyInfo.cs
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\names app.csproj.CoreCompileInputs.cache
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\names app.sourcelink.json
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\names app.dll
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\refint\names app.dll
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\names app.pdb
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\names app.genruntimeconfig.cache
+C:\github\windows_app\names app\names app\obj\Release\net10.0-windows\ref\names app.dll
