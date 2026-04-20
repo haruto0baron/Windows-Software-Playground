@@ -36,14 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\github\\windows_app\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\github\\windows_app\\WinFormsApp1\\WinFormsApp1\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "RelativeToolTip": "WinFormsApp1\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "ToolTip": "C:\\github\\windows_app\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T02:15:07.032Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+              "EditorCaption": " [Design]"
             }
           ]
         }
