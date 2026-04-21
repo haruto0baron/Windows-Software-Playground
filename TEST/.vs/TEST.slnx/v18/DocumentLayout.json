@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\windows_app\\TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6021603D-8EAB-40DB-8814-975C26329B70}|TEST\\TEST.vcxproj|C:\\github\\windows_app\\TEST\\TEST\\TEST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6021603D-8EAB-40DB-8814-975C26329B70}|TEST\\TEST.vcxproj|solutionrelative:TEST\\TEST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TEST.cpp",
+              "DocumentMoniker": "C:\\github\\windows_app\\TEST\\TEST\\TEST.cpp",
+              "RelativeDocumentMoniker": "TEST\\TEST.cpp",
+              "ToolTip": "C:\\github\\windows_app\\TEST\\TEST\\TEST.cpp",
+              "RelativeToolTip": "TEST\\TEST.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T11:51:50.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
