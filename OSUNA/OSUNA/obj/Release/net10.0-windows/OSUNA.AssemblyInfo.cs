@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OSUNA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d699761c18a263484ba714f8091ee8fdc0daf7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fdb03306b7fadea3c7e5eb5d73a46a7471c8c93")]
 [assembly: System.Reflection.AssemblyProductAttribute("OSUNA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OSUNA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
