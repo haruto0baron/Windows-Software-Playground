@@ -1,1 +1,0 @@
-C:\github\windows_app\Hello World\Hello World\Hello World.csproj;x64
