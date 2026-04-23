@@ -1,0 +1,10 @@
+C:\github\windows_app\PictureViewer\PictureViewer\bin\Release\PictureViewer.exe.config
+C:\github\windows_app\PictureViewer\PictureViewer\bin\Release\PictureViewer.exe
+C:\github\windows_app\PictureViewer\PictureViewer\bin\Release\PictureViewer.pdb
+C:\github\windows_app\PictureViewer\PictureViewer\obj\Release\PictureViewer.csproj.AssemblyReference.cache
+C:\github\windows_app\PictureViewer\PictureViewer\obj\Release\PictureViewer.Form1.resources
+C:\github\windows_app\PictureViewer\PictureViewer\obj\Release\PictureViewer.Properties.Resources.resources
+C:\github\windows_app\PictureViewer\PictureViewer\obj\Release\PictureViewer.csproj.GenerateResource.cache
+C:\github\windows_app\PictureViewer\PictureViewer\obj\Release\PictureViewer.csproj.CoreCompileInputs.cache
+C:\github\windows_app\PictureViewer\PictureViewer\obj\Release\PictureViewer.exe
+C:\github\windows_app\PictureViewer\PictureViewer\obj\Release\PictureViewer.pdb
