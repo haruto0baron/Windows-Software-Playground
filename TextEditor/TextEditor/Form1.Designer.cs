@@ -34,6 +34,7 @@
             開くToolStripMenuItem = new ToolStripMenuItem();
             保存ToolStripMenuItem = new ToolStripMenuItem();
             終了ToolStripMenuItem = new ToolStripMenuItem();
+            新規作成ToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -59,7 +60,7 @@
             // 
             // ファイルToolStripMenuItem
             // 
-            ファイルToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { 開くToolStripMenuItem, 保存ToolStripMenuItem, 終了ToolStripMenuItem });
+            ファイルToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { 開くToolStripMenuItem, 保存ToolStripMenuItem, 新規作成ToolStripMenuItem, 終了ToolStripMenuItem });
             ファイルToolStripMenuItem.Name = "ファイルToolStripMenuItem";
             ファイルToolStripMenuItem.Size = new Size(65, 24);
             ファイルToolStripMenuItem.Text = "ファイル";
@@ -85,6 +86,13 @@
             終了ToolStripMenuItem.Text = "終了";
             終了ToolStripMenuItem.Click += 終了ToolStripMenuItem_Click;
             // 
+            // 新規作成ToolStripMenuItem
+            // 
+            新規作成ToolStripMenuItem.Name = "新規作成ToolStripMenuItem";
+            新規作成ToolStripMenuItem.Size = new Size(224, 26);
+            新規作成ToolStripMenuItem.Text = "新規作成";
+            新規作成ToolStripMenuItem.Click += 新規作成ToolStripMenuItem_Click;
+            // 
             // TextEditor
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -109,5 +117,6 @@
         private ToolStripMenuItem 開くToolStripMenuItem;
         private ToolStripMenuItem 保存ToolStripMenuItem;
         private ToolStripMenuItem 終了ToolStripMenuItem;
+        private ToolStripMenuItem 新規作成ToolStripMenuItem;
     }
 }

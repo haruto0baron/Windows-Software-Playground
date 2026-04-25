@@ -29,12 +29,39 @@ namespace TextEditor
 
         private void 終了ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            SaveFileDialog dialog = new SaveFileDialog();
-            dialog.Filter = "テキストファイル(*.txt)|*.txt";
-            dialog.Title = "保存";
-            if (dialog.ShowDialog() == DialogResult.OK)
+            DialogResult result = MessageBox.Show("メモ帳を終了します", "終了", MessageBoxButtons.YesNo);
+            if (result == DialogResult.Yes)
             {
-                File.WriteAllText(dialog.FileName, textBox1.Text);
+                Close();
+            }
+        }
+
+        private void 新規作成ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(textBox1.Text)) // テキストが空でない場合
+            {
+                DialogResult result = MessageBox.Show(
+                    "現在の内容を保存しますか？",
+                    "確認",
+                    MessageBoxButtons.YesNoCancel,
+                    MessageBoxIcon.Question
+                );
+
+                if (result == DialogResult.Yes)
+                {
+                    // 上書き保存または保存ダイアログを表示
+                    保存ToolStripMenuItem_Click(sender, e);
+                    textBox1.Clear();
+                }
+                else if (result == DialogResult.No)
+                {
+                    textBox1.Clear();
+                }
+                // Cancelの場合は何もしない
+            }
+            else
+            {
+                textBox1.Clear();
             }
         }
     }

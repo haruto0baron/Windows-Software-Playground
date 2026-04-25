@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\windows_app\\TextEditor\\TextEditor\\TextEditor.csproj",
+      "projectUniqueName": "C:\\github\\Windows-Software-Playground\\TextEditor\\TextEditor\\TextEditor.csproj",
       "projectName": "TextEditor",
-      "projectPath": "C:\\github\\windows_app\\TextEditor\\TextEditor\\TextEditor.csproj",
+      "projectPath": "C:\\github\\Windows-Software-Playground\\TextEditor\\TextEditor\\TextEditor.csproj",
       "packagesPath": "C:\\Users\\haru_\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\windows_app\\TextEditor\\TextEditor\\obj\\",
+      "outputPath": "C:\\github\\Windows-Software-Playground\\TextEditor\\TextEditor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\haru_\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\github\\windows_app\\TextEditor\\",
+  "WorkspaceRootPath": "C:\\github\\Windows-Software-Playground\\TextEditor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42712B42-C964-40C5-A864-036F56E9B8AD}|TextEditor\\TextEditor.csproj|c:\\github\\windows_app\\texteditor\\texteditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{42712B42-C964-40C5-A864-036F56E9B8AD}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A0D35C36-2101-9299-1D27-1E9506F1CB1E}|TextEditor\\TextEditor.csproj|c:\\github\\windows-software-playground\\texteditor\\texteditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D35C36-2101-9299-1D27-1E9506F1CB1E}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42712B42-C964-40C5-A864-036F56E9B8AD}|TextEditor\\TextEditor.csproj|c:\\github\\windows_app\\texteditor\\texteditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42712B42-C964-40C5-A864-036F56E9B8AD}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0D35C36-2101-9299-1D27-1E9506F1CB1E}|TextEditor\\TextEditor.csproj|c:\\github\\windows-software-playground\\texteditor\\texteditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D35C36-2101-9299-1D27-1E9506F1CB1E}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\github\\windows_app\\TextEditor\\TextEditor\\Form1.cs",
+              "DocumentMoniker": "C:\\github\\Windows-Software-Playground\\TextEditor\\TextEditor\\Form1.cs",
               "RelativeDocumentMoniker": "TextEditor\\Form1.cs",
-              "ToolTip": "C:\\github\\windows_app\\TextEditor\\TextEditor\\Form1.cs",
+              "ToolTip": "C:\\github\\Windows-Software-Playground\\TextEditor\\TextEditor\\Form1.cs",
               "RelativeToolTip": "TextEditor\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T02:23:26.152Z",
               "IsPinned": true,
@@ -40,11 +40,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\github\\windows_app\\TextEditor\\TextEditor\\Form1.cs",
+              "DocumentMoniker": "C:\\github\\Windows-Software-Playground\\TextEditor\\TextEditor\\Form1.cs",
               "RelativeDocumentMoniker": "TextEditor\\Form1.cs",
-              "ToolTip": "C:\\github\\windows_app\\TextEditor\\TextEditor\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "ToolTip": "C:\\github\\Windows-Software-Playground\\TextEditor\\TextEditor\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "TextEditor\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T02:16:42.028Z",
