@@ -1,0 +1,16 @@
+C:\github\windows_app\TextEditor\TextEditor\bin\Debug\net10.0-windows\TextEditor.exe
+C:\github\windows_app\TextEditor\TextEditor\bin\Debug\net10.0-windows\TextEditor.deps.json
+C:\github\windows_app\TextEditor\TextEditor\bin\Debug\net10.0-windows\TextEditor.runtimeconfig.json
+C:\github\windows_app\TextEditor\TextEditor\bin\Debug\net10.0-windows\TextEditor.dll
+C:\github\windows_app\TextEditor\TextEditor\bin\Debug\net10.0-windows\TextEditor.pdb
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\TextEditor.TextEditor.resources
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\TextEditor.csproj.GenerateResource.cache
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\TextEditor.AssemblyInfoInputs.cache
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\TextEditor.AssemblyInfo.cs
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\TextEditor.csproj.CoreCompileInputs.cache
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\TextEditor.dll
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\refint\TextEditor.dll
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\TextEditor.pdb
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\TextEditor.genruntimeconfig.cache
+C:\github\windows_app\TextEditor\TextEditor\obj\Debug\net10.0-windows\ref\TextEditor.dll
