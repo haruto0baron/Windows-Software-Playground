@@ -1,0 +1,16 @@
+C:\github\windows_app\ToDo\ToDo\bin\Debug\net10.0-windows\ToDo.exe
+C:\github\windows_app\ToDo\ToDo\bin\Debug\net10.0-windows\ToDo.deps.json
+C:\github\windows_app\ToDo\ToDo\bin\Debug\net10.0-windows\ToDo.runtimeconfig.json
+C:\github\windows_app\ToDo\ToDo\bin\Debug\net10.0-windows\ToDo.dll
+C:\github\windows_app\ToDo\ToDo\bin\Debug\net10.0-windows\ToDo.pdb
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\ToDo.Form1.resources
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\ToDo.csproj.GenerateResource.cache
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\ToDo.AssemblyInfoInputs.cache
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\ToDo.AssemblyInfo.cs
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\ToDo.csproj.CoreCompileInputs.cache
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\ToDo.dll
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\refint\ToDo.dll
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\ToDo.pdb
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\ToDo.genruntimeconfig.cache
+C:\github\windows_app\ToDo\ToDo\obj\Debug\net10.0-windows\ref\ToDo.dll

@@ -54,5 +54,10 @@ namespace PictureViewer
                 pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             }
         }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
