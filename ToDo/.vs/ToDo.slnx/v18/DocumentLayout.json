@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\github\\windows_app\\ToDo\\",
+  "WorkspaceRootPath": "C:\\github\\Windows-Software-Playground\\ToDo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79B0D2E5-56C0-406C-B093-EF81CFDDC1C6}|ToDo\\ToDo.csproj|c:\\github\\windows_app\\todo\\todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{79B0D2E5-56C0-406C-B093-EF81CFDDC1C6}|ToDo\\ToDo.csproj|solutionrelative:todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1B8F0A69-81BA-D73E-3588-43EDF31BA110}|ToDo\\ToDo.csproj|c:\\github\\windows-software-playground\\todo\\todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B8F0A69-81BA-D73E-3588-43EDF31BA110}|ToDo\\ToDo.csproj|solutionrelative:todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79B0D2E5-56C0-406C-B093-EF81CFDDC1C6}|ToDo\\ToDo.csproj|c:\\github\\windows_app\\todo\\todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79B0D2E5-56C0-406C-B093-EF81CFDDC1C6}|ToDo\\ToDo.csproj|solutionrelative:todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B8F0A69-81BA-D73E-3588-43EDF31BA110}|ToDo\\ToDo.csproj|c:\\github\\windows-software-playground\\todo\\todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8F0A69-81BA-D73E-3588-43EDF31BA110}|ToDo\\ToDo.csproj|solutionrelative:todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,29 +21,29 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\github\\windows_app\\ToDo\\ToDo\\Form1.cs",
+              "DocumentMoniker": "C:\\github\\Windows-Software-Playground\\ToDo\\ToDo\\Form1.cs",
               "RelativeDocumentMoniker": "ToDo\\Form1.cs",
-              "ToolTip": "C:\\github\\windows_app\\ToDo\\ToDo\\Form1.cs",
+              "ToolTip": "C:\\github\\Windows-Software-Playground\\ToDo\\ToDo\\Form1.cs",
               "RelativeToolTip": "ToDo\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T01:08:42.595Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\github\\windows_app\\ToDo\\ToDo\\Form1.cs",
+              "DocumentMoniker": "C:\\github\\Windows-Software-Playground\\ToDo\\ToDo\\Form1.cs",
               "RelativeDocumentMoniker": "ToDo\\Form1.cs",
-              "ToolTip": "C:\\github\\windows_app\\ToDo\\ToDo\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "ToolTip": "C:\\github\\Windows-Software-Playground\\ToDo\\ToDo\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "ToDo\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T00:50:20.568Z",

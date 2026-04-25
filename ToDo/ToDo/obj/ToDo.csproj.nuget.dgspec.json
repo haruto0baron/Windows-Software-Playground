@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\windows_app\\ToDo\\ToDo\\ToDo.csproj": {}
+    "C:\\github\\Windows-Software-Playground\\ToDo\\ToDo\\ToDo.csproj": {}
   },
   "projects": {
-    "C:\\github\\windows_app\\ToDo\\ToDo\\ToDo.csproj": {
+    "C:\\github\\Windows-Software-Playground\\ToDo\\ToDo\\ToDo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\windows_app\\ToDo\\ToDo\\ToDo.csproj",
+        "projectUniqueName": "C:\\github\\Windows-Software-Playground\\ToDo\\ToDo\\ToDo.csproj",
         "projectName": "ToDo",
-        "projectPath": "C:\\github\\windows_app\\ToDo\\ToDo\\ToDo.csproj",
+        "projectPath": "C:\\github\\Windows-Software-Playground\\ToDo\\ToDo\\ToDo.csproj",
         "packagesPath": "C:\\Users\\haru_\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\windows_app\\ToDo\\ToDo\\obj\\",
+        "outputPath": "C:\\github\\Windows-Software-Playground\\ToDo\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\haru_\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,17 @@
+C:\github\Windows-Software-Playground\ToDo\ToDo\bin\Release\net10.0-windows\ToDo.exe
+C:\github\Windows-Software-Playground\ToDo\ToDo\bin\Release\net10.0-windows\ToDo.deps.json
+C:\github\Windows-Software-Playground\ToDo\ToDo\bin\Release\net10.0-windows\ToDo.runtimeconfig.json
+C:\github\Windows-Software-Playground\ToDo\ToDo\bin\Release\net10.0-windows\ToDo.dll
+C:\github\Windows-Software-Playground\ToDo\ToDo\bin\Release\net10.0-windows\ToDo.pdb
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ToDo.Form1.resources
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ToDo.csproj.GenerateResource.cache
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ToDo.AssemblyInfoInputs.cache
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ToDo.AssemblyInfo.cs
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ToDo.csproj.CoreCompileInputs.cache
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ToDo.sourcelink.json
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ToDo.dll
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\refint\ToDo.dll
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ToDo.pdb
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ToDo.genruntimeconfig.cache
+C:\github\Windows-Software-Playground\ToDo\ToDo\obj\Release\net10.0-windows\ref\ToDo.dll
